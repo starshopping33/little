@@ -1,0 +1,19 @@
+*{
+    background-color: #161515;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.kk{
+    border: 2px solid #787474;
+    display: flex;
+    padding: 12px;
+    flex-direction: column;
+    justify-content: center;
+    width: 24%;
+    border-radius: 20px;
+}
+header h1 {
+    color: #888888;
+}

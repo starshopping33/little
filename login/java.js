@@ -6,13 +6,13 @@ function fazerLogin(){
         const pass = document.querySelector("#pass")
         
         
-      window.location.href = "/"
-        
+      
+        window.location.href = "/"
     })
 }   
 fazerLogin()
 
 function cadastro(){
-  
+
 }
 
