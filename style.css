@@ -26,3 +26,26 @@ h1 {
 nav {
     margin-top: 10px;
 }
+
+.inicial{
+    
+    background-color: #1091d6;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 40px;
+    border: none;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 5px rgba(2, 2, 2, 0.8);
+    color: #e6dfdf;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    }
+    .inicial:hover {
+        background-color: #0c74ab; 
+        transform: scale(1.05); 
+        box-shadow: 0px 0px 10px rgba(2, 2, 2, 0.9);
+    }
+
+    .inicial:active {
+        transform: scale(0.98); 
+    }
